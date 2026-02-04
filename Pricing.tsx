@@ -45,7 +45,7 @@ export const Pricing: React.FC = () => {
              "Menos que uma pizza. Menos que um saco de petisco industrializado."
            </p>
            <a 
-            href="https://pay.hotmart.com/C104254337F" 
+            href="https://pay.hotmart.com/C104254337F?checkoutMode=10" 
             className="pulsating-btn inline-block bg-sage hover:bg-green-600 text-white font-black text-2xl py-8 px-12 rounded-2xl transition-all uppercase tracking-widest shadow-lg no-underline"
            >
             BAIXAR AGORA - ACESSO IMEDIATO
