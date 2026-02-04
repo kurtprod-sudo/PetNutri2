@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 
 // --- CONSTANTS ---
-const CHECKOUT_LINK = "https://pay.hotmart.com/C104254337F";
+const CHECKOUT_LINK = "https://pay.hotmart.com/C104254337F?checkoutMode=10";
 
 // --- COMPONENTS ---
 
