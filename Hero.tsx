@@ -13,7 +13,7 @@ export const Hero: React.FC = () => {
         </h2>
         
         <a 
-          href="https://pay.hotmart.com/C104254337F" 
+          href="https://pay.hotmart.com/C104254337F?checkoutMode=10" 
           className="pulsating-btn inline-block bg-sage hover:bg-green-600 text-white font-black text-lg md:text-xl py-6 px-8 rounded-xl transition-all uppercase tracking-wider mb-12 cursor-pointer no-underline"
         >
           QUERO PROTEGER MEU PET POR R$ 29,90
